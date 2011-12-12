@@ -1,0 +1,5 @@
+・はじめに必要なこと
+ここ（http://www.tumblr.com/oauth/apps）からアプリケーションを登録し、OAuthキーを入手してください。
+ログインが不要なAPIを使う場合でもアプリケーション固有のAPIキーが必要になります。
+
+詳しくはAuthenticationの項を参照。
